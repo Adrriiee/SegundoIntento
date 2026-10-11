@@ -7,7 +7,7 @@ apt update && apt upgrade -y
 
 git clone  https://github.com/Adrriiee/SegundoIntento/edit/main/README.md
 
-cd SegundoIntento 
+cd Bin_Resucitate
 
 chmod 777 Bin_Resucitate.sh
 
